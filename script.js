@@ -517,7 +517,7 @@ const OLD_LOGOS = [{
     }, {
         id: 66,
         logo: './nfl/old/patriot.1989-1992.png',
-        wideLogo: './nfl/8x9/old/patriot.1989-1992.png',
+        wideLogo: './nfl/8x9/old/patriots.1989-1992.png',
         cityName: 'New England',
         nickname: 'Patriots',
         stadiumLocation: "Foxborough, Massachusetts"
@@ -531,7 +531,7 @@ const OLD_LOGOS = [{
     }, {
         id: 68,
         logo: './nfl/old/patriots.1972-1988.png',
-        wideLogo: './nfl/8x9/old/patriots.1972-1988.png',
+        wideLogo: './nfl/8x9/old/patriots.1972.1988.png',
         cityName: 'New England',
         nickname: 'Patriots',
         stadiumLocation: "Foxborough, Massachusetts"
